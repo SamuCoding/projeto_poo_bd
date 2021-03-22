@@ -1,0 +1,23 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuCoding/projeto_poo_bd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuCoding/projeto_poo_bd/issues"
+  },
+  "homepage": "https://github.com/SamuCoding/projeto_poo_bd#readme",
+  "dependencies": {
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.1"
+  }
+}
